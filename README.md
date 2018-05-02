@@ -54,5 +54,6 @@ For example, my config looks like this (comments are invalid JSON-Syntax, I know
     }
   ]
 }
+```
 
 > **Note**: Images will be added soon
