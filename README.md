@@ -1,5 +1,6 @@
 # FiraFlott
 ## A free Operator Mono-Alternative based on [FiraCode](https://github.com/tonsky/FiraCode) and [FlottFlott](https://www.dafont.com/flottflott.font)
+### Note: New font-combination available (Fira Code with Pacifico), looks much better -> [here](https://github.com/kosimst/Firicico)
 
 Font that combines Mono font from FiraCode (also in Bold) including Font-Ligatures with FlottFlott as Italic font.
 Tested with VSCode, but should support every Editor that supports italics.
